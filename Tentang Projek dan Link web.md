@@ -5,6 +5,10 @@ Web-based Inventory Management System built with Laravel.
 ## 🚀 Live Demo
 
 👉 https://smart-inventory-system-production.up.railway.app
+Username : admin@demo.com
+           staff@demo.com
+           manajer@demo.com
+Pass : password
 
 ## Features
 
@@ -26,5 +30,3 @@ Web-based Inventory Management System built with Laravel.
 - Chart.js
 - Railway
 - GitHub
-
-Link web smart-inventory-system-production.up.railway.app
