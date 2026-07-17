@@ -7,7 +7,7 @@ Web-based Inventory Management System built with Laravel.
 👉 https://smart-inventory-system-production.up.railway.app
 Username : admin@demo.com
            staff@demo.com
-           manajer@demo.com
+           manager@demo.com
 Pass : password
 
 ## Features
